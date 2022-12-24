@@ -1,0 +1,43 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color: rgb(33, 49, 49);
+}
+.navbar{
+    height: 40px;
+    background-color: rgb(41, 97, 99);
+    display: flex;
+    justify-content: space-around;
+
+}
+.logo{
+    padding-left: 10px;
+    color: #fff;
+}
+#root{
+    background-color: rgb(255, 255, 255);
+}
+.nav-item{
+        padding-left: 15px;
+        color: #fff;
+}
+.mainc{
+    height: 90vh;
+}
+.d-block{
+    height: 90vh;
+    width: 100%;
+}
+
+.about{
+    color: cadetblue;
+    display: flex;
+    justify-content: center;
+}
+
+
+/* .baig{
+    color: black;
+} */
