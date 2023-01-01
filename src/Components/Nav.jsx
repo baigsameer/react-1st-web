@@ -7,16 +7,16 @@ function Nav() {
    <h4 className='logo'> SAMEER BAIG</h4>
     <ul class="nav">
   <li class="nav-item">
-  <a  >HOME</a>
+  <span>HOME</span>
   </li>
   <li class="nav-item">
-  <a >CONTACT</a>
+  <span >CONTACT</span>
   </li>
   <li class="nav-item">
-  <a >Disabled</a>
+  <span>Disabled</span>
   </li>
   <li class="nav-item">
-    <a>Disabled</a>
+    <span>Disabled</span>
   </li>
 </ul>
     </nav>
