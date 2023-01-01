@@ -7,33 +7,33 @@ function Footer() {
       <div class="col-2">
         <h5>Section</h5>
         <ul class="nav flex-column">
-          <li class="nav-item mb-2"><a class="nav-link p-0 text-muted">Home</a></li>
-          <li class="nav-item mb-2"><a class="nav-link p-0 text-muted">Features</a></li>
-          <li class="nav-item mb-2"><a class="nav-link p-0 text-muted">Pricing</a></li>
-          <li class="nav-item mb-2"><a class="nav-link p-0 text-muted">FAQs</a></li>
-          <li class="nav-item mb-2"><a class="nav-link p-0 text-muted">About</a></li>
+          <li class="nav-item mb-2"><span class="nav-link p-0 text-muted">Home</span></li>
+          <li class="nav-item mb-2"><span class="nav-link p-0 text-muted">Features</span></li>
+          <li class="nav-item mb-2"><span class="nav-link p-0 text-muted">Pricing</span></li>
+          <li class="nav-item mb-2"><span class="nav-link p-0 text-muted">FAQs</span></li>
+          <li class="nav-item mb-2"><span class="nav-link p-0 text-muted">About</span></li>
         </ul>
       </div>
 
       <div class="col-2">
         <h5>Section</h5>
         <ul class="nav flex-column">
-          <li class="nav-item mb-2"><a  class="nav-link p-0 text-muted">Home</a></li>
-          <li class="nav-item mb-2"><a  class="nav-link p-0 text-muted">Features</a></li>
-          <li class="nav-item mb-2"><a  class="nav-link p-0 text-muted">Pricing</a></li>
-          <li class="nav-item mb-2"><a  class="nav-link p-0 text-muted">FAQs</a></li>
-          <li class="nav-item mb-2"><a  class="nav-link p-0 text-muted">About</a></li>
+          <li class="nav-item mb-2"><span class="nav-link p-0 text-muted">Home</span></li>
+          <li class="nav-item mb-2"><span class="nav-link p-0 text-muted">Features</span></li>
+          <li class="nav-item mb-2"><span class="nav-link p-0 text-muted">Pricing</span></li>
+          <li class="nav-item mb-2"><span class="nav-link p-0 text-muted">FAQs</span></li>
+          <li class="nav-item mb-2"><span class="nav-link p-0 text-muted">About</span></li>
         </ul>
       </div>
 
       <div class="col-2">
         <h5>Section</h5>
         <ul class="nav flex-column">
-          <li class="nav-item mb-2"><a class="nav-link p-0 text-muted">Home</a></li>
-          <li class="nav-item mb-2"><a class="nav-link p-0 text-muted">Features</a></li>
-          <li class="nav-item mb-2"><a class="nav-link p-0 text-muted">Pricing</a></li>
-          <li class="nav-item mb-2"><a class="nav-link p-0 text-muted">FAQs</a></li>
-          <li class="nav-item mb-2"><a class="nav-link p-0 text-muted">About</a></li>
+          <li class="nav-item mb-2"><span class="nav-link p-0 text-muted">Features</span></li>
+          <li class="nav-item mb-2"><span class="nav-link p-0 text-muted">Pricing</span></li>
+          <li class="nav-item mb-2"><span class="nav-link p-0 text-muted">FAQs</span></li>
+          <li class="nav-item mb-2"><span class="nav-link p-0 text-muted">Home</span></li>
+          <li class="nav-item mb-2"><span class="nav-link p-0 text-muted">About</span></li>
         </ul>
       </div>
 
